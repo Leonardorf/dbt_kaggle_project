@@ -1,0 +1,34 @@
+
+version: 2
+
+models:
+  - name: my_first_dbt_model
+    description: "A starter dbt model"
+    columns:
+      - name: id
+        description: "The primary key for this table"
+        data_tests:
+          - unique
+          - not_null
+
+  - name: my_second_dbt_model
+    description: "A starter dbt model"
+    columns:
+      - name: id
+        description: "The primary key for this table"
+        data_tests:
+          - unique
+          - not_null
+          
+  - name: accidents_by_year
+    description: Agrega los accidentes por año
+    columns:
+      - name: accident_year
+        description: Año del accidente
+      - name: total_accidents
+        description: Cantidad total de accidentes registrados en ese año
+      - name: total_injuries
+        description: Total de personas heridas ese año
+      - name: total_fatalities
+        description: Total de muertes registradas ese año
+

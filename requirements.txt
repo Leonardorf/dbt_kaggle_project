@@ -1,0 +1,6 @@
+# requirements.txt
+dbt-duckdb
+duckdb
+pandas
+kaggle
+jupyter
