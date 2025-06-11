@@ -72,7 +72,7 @@ dbt_kaggle_project/
 
 **Leonardo Villegas**  
 Ingeniero en Sistemas, entusiasta de los datos abiertos y la ingeniería de datos.  
-📧 [Contacto profesional en LinkedIn](www.linkedin.com/in/leonardo-r-f-villegas/)
+
 
 ---
 
