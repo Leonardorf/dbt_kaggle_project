@@ -22,7 +22,7 @@ dbt_kaggle_project/
 │   ├── cargar_duckdb.py
 │   └── explorar_duckdb.py
 │
-├── docker-compose.yml     # (opcional) Configuración de servicios
+├── docker-compose.yml     # Configuración de servicios
 └── README.md              # Este archivo
 ```
 
@@ -67,15 +67,6 @@ dbt_kaggle_project/
 
 ---
 
-## 🌱 Mejoras futuras
-
-- Crear un dashboard con **Streamlit** o **Dash**.
-- Automatizar el pipeline con **Apache Airflow**.
-- Añadir tests más avanzados en dbt.
-- Conectar con herramientas de visualización como **Metabase** o **Superset**.
-- Soporte para múltiples fuentes de datos.
-
----
 
 ## 👤 Autor
 
